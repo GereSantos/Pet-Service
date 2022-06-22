@@ -6,7 +6,7 @@ namespace AnimalApp
     {
         static void Main(string[] args)
         {
-            //Programa de registro de pessoas e priorização de atendimento V.1
+            //Programa de registro de pessoas e priorização de atendimento V.2
             Random randNumber = new Random();
 
             Console.WriteLine("PET ANIMAL");
